@@ -5,8 +5,8 @@ This is a API fetching web app where you get jokes on clicking buttons
 
 
 ## Things I learend
-1. Working with EventListener
-2. Logic building
+1. Fetching API
+2. Converting api response in data
 
 
 ## Tech Stack
