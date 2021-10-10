@@ -1,12 +1,12 @@
 # Dad Jokes
 This is a API fetching web app where you get jokes on clicking buttons 
 
-### <a href="https://github.com/singhsduos/Dad-Jokes" target="_blank">**Visit Now 🚀**</a>
+### <a href="https://neelesh-jokes.netlify.app/" target="_blank">**Visit Now 🚀**</a>
 
 
 ## Things I learend
-1. Working with EventListener
-2. Logic building
+1. Fetching API
+2. Converting api response in data
 
 
 ## Tech Stack
@@ -15,6 +15,7 @@ This is a API fetching web app where you get jokes on clicking buttons
 [![jAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## ScreenShot
+![Screenshot_20211010_113932](https://user-images.githubusercontent.com/32032008/136684724-02b796b5-0b8a-484f-aecf-de8c1fff0819.png)
 
 
 
