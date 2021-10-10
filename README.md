@@ -1,12 +1,12 @@
 # Dad Jokes
-This is a API fetching web app where you get jokes on clicking buttons 
+This is an API fetching web app where you get jokes on clicking buttons 
 
 ### <a href="https://neelesh-jokes.netlify.app/" target="_blank">**Visit Now 🚀**</a>
 
 
 ## Things I learend
 1. Fetching API
-2. Converting api response in data
+2. Converting API response in data
 
 
 ## Tech Stack
@@ -19,8 +19,8 @@ This is a API fetching web app where you get jokes on clicking buttons
 
 
 
-
 ## Demo Video
+![Neelesh Jokes](https://user-images.githubusercontent.com/32032008/136689197-77443b77-7044-4215-831a-38ded5e14277.gif)
 
 
 
