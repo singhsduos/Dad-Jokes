@@ -5,17 +5,47 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Font-Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
-    <title>TV Shows</title>
+    <title>Dad Jokes</title>
 </head>
 
 <body>
-    <h1>Search Your Favourite Show Here</h1>
-    <form id="searchform">
-        <input id="tvShow" type="text" placeholder="Search here by name" name="query">
-        <button id="btn"> Press to Search</button>
-    </form>
+    <h1>Click to get new jokes!</h1>
+    <div>
+        <button id="btn">Get Jokes!</button>
+        <button id='remove'>Remove Joke!</button>
+    </div>
+    <div class="jokesBorder">
+    <ul></ul>
+    </div>
+
+    <footer>
+        <div class="footer">
+            <div class="copyright">
+                <h2 class="text">JS Tip Carousel</h2>
+                <p class="copyText">Copyright &copy; 2021</p>
+            </div>
+
+            <div class="socialMedia">
+                <a href="https://github.com/singhsduos/Image-Carousel" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github fa-2x"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/neeleshsng/" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-linkedin fa-2x"></i>
+                </a>
+                <a href="https://twitter.com/singhs_duos" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-twitter fa-2x"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
 
     <script src="app.js"></script>
 </body>
