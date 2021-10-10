@@ -1,7 +1,7 @@
 # Dad Jokes
 This is a API fetching web app where you get jokes on clicking buttons 
 
-### <a href="https://jstipcarousel.netlify.app/" target="_blank">**Visit Now 🚀**</a>
+### <a href="https://github.com/singhsduos/Dad-Jokes" target="_blank">**Visit Now 🚀**</a>
 
 
 ## Things I learend
